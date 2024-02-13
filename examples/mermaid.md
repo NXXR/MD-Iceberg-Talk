@@ -3,7 +3,7 @@
 - [Mermaid Live Editor](https://mermaid.live)
 
 ---
-````c
+````
 ```mermaid
 flowchart TD
    A['Promise MD Talk'] -->|'procrastinate'| B('Create slides over night')

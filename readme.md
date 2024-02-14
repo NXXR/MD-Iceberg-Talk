@@ -97,7 +97,7 @@ Press <kbd>&darr;</kbd> to dive.
 ## Math
 :::::::::::::: {.columns}
 ::: {.column style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px;"}  
-- `$...$` or ``` $`...`$ 5`` for inline math
+- `$...$` or ``` $`...`$ ``` for inline math
 - `$$ ... $$` or ```` ```math ... ``` ```` for blocks
 :::
 ::: {.cloumn style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px;"}  

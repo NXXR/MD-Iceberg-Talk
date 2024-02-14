@@ -148,7 +148,7 @@ $$
 :::
 
 
-## GitHub Only Code Blocks
+## GitHub Only Stuff
 ::: {style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px;"}
 
 :::::::::::::: {.columns}
@@ -166,7 +166,7 @@ $$
 :::
 
 
-## You're Welcome!
+## Thank!
 ::: {style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px; font-size:0.5em;"}
 
 This presentation was generated with [`pandoc`](https://pandoc.org/) and [`revealjs`](https://revealjs.com/) from a `markdown` document![^titanic] [^pandocCMD]  

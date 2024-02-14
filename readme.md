@@ -118,10 +118,10 @@ $$
    - (GitLab) `[~]` for canceled tasks (strikethru)
 - References to issues with `#<issueNr>`
    - (GitLab) add `+` or `+s` for additional infos
-- keywords to close issues
+- Use keywords to close issues
    - e.g. `fix`, `close`, `resolve`
-- diffs ```` ```diff ````
-   - (GitLab) inline diffs with `{- text -}`
+- Custom diffs ```` ```diff ````
+   - (GitLab) create inline diffs with `{- text -}`
 :::
 
 

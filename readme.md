@@ -112,7 +112,7 @@ $$
 ::::::::::::::
 
 
-## [Stuff for Issues](https://gitlab.dlr.de/zeum_mo/sqw-2024/-/issues/10)
+## Stuff for Issues
 ::: {style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px;"}
 
 - Task Lists with `- [ ] ...`

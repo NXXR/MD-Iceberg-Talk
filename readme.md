@@ -1,10 +1,12 @@
 ---
 title: "The Markdown Iceberg"
 parallaxBackgroundImage: "assets/iceberg.jpg"
-parallaxBackgroundSize: "1280px 1944px"
-# parallaxBackgroundHorizontal: 0
+parallaxBackgroundSize: "2000px 3038px"
+parallaxBackgroundHorizontal: 0
 slideNumber: true
 theme: dracula
+width: 1920
+height: 1080
 ---
 
 # All the Markdown Stuff we know already
@@ -42,7 +44,7 @@ This is normal text
 <!-- This is a HTML Comment -->
 ```
 :::
-::: {.cloumn style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px;"}  
+::: {.column style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px;"}  
 This is normal text
 
 [This is a Link comment]: #
@@ -100,7 +102,7 @@ Press <kbd>&darr;</kbd> to dive.
 - `$...$` or ``` $`...`$ ``` for inline math
 - `$$ ... $$` or ```` ```math ... ``` ```` for blocks
 :::
-::: {.cloumn style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px;"}  
+::: {.column style="background: rgba(0,0,0,0.8); padding: 20px; border-radius: 15px;"}  
 - Inline math like $(\frac{\pi}{2})$ is inline...
 - Blocks are centered:
 $$
@@ -172,7 +174,7 @@ $$
 This presentation was generated with [`pandoc`](https://pandoc.org/) and [`revealjs`](https://revealjs.com/) from a `markdown` document![^titanic] [^pandocCMD]  
 [It can be found here (Github/NXXR/MD-Iceberg-Talk).](https://github.com/NXXR/MD-Iceberg-Talk)
 :::
-![](assets/titanic-wreck.png)
+![](assets/titanic-wreck.png){.absolute bottom=0}
 
 
 [^titanic]: Titanic image edited from [source by pngarts.com](https://www.pngarts.com/files/5/Sinking-Titanic-PNG-Transparent-Image.png)
